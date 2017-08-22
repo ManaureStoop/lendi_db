@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Lendi API",
+  "description": "Lendi API to store and retreive all data",
+  "repository": "https://bitbucket.org/mstoop/lendi-api/commits/e03e0e4ee45416cd00eb0012eaff34ddfbbe8034",
   "addons": []
 }
