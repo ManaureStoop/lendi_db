@@ -6,7 +6,7 @@
 -- Generation Time: Aug 20, 2017 at 09:12 PM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 5.6.31
-USE lendi;
+USE heroku_2cb9cb0e26aadf3;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `lendi`
+-- Database: `heroku_2cb9cb0e26aadf3` (lendi database for testing)
 --
 
 -- --------------------------------------------------------

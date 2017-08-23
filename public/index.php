@@ -1,9 +1,9 @@
 <?php
 header('Content-Type:applicayion/json');
-$dbhost="localhost";
-$dbuser="root";
-$dbpass="";
-$dbname="lendi";
+$dbhost="us-cdbr-iron-east-05.cleardb.net";
+$dbuser="b19198ed4967b0";
+$dbpass="bbdc5057";
+$dbname="heroku_2cb9cb0e26aadf3";
 
 $conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);		
 if ($conn->connect_error) {
