@@ -6,6 +6,7 @@
 -- Generation Time: Aug 20, 2017 at 09:12 PM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 5.6.31
+USE lendi;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
